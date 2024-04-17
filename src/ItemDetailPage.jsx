@@ -1,7 +1,9 @@
-const ItemDetailPage = () => {
+//{item} es una props
+const ItemDetailPage = ({item}) => {
 
   return (
     <>
+    <h3>{Item.title}</h3>
     </>
  
   );

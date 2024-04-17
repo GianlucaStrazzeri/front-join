@@ -1,4 +1,5 @@
 # React + nodeJS
+Para levantar el servidor con npm run dev
 
 ## Pasos a seguir 
 Antes de empezar con la clase tienes que tener en cuentas lo siguiente:
